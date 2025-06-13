@@ -10,7 +10,7 @@ https://colab.research.google.com/drive/15tmr25W2pm3PhkyKjbxVPWXs1pdgoVJX?usp=sh
 
 ## Pre-requisites : 
 
-1) Clone the Repository [vehicle-counting-yolov5](https://github.com/Yashwanth-Chandrakumar/Smart-Traffic-Optimisation.git)
+1) Clone the Repository [vehicle-counting-yolov5](https://github.com/[your-ussername]/Smart-Traffic-Optimisation.git)
 
 ```bash
 git clone https://github.com/Yashwanth-Chandrakumar/Smart-Traffic-Optimisation.git
